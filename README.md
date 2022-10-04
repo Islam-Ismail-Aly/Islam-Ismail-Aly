@@ -5,6 +5,7 @@
 
 - 🔭 I’m currently working on **SmartCom commercial services**
 
+<hr>
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
