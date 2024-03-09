@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Islam Ismail Ali</h1>
+<div align="center">
 <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" alt="xd" width="40" height="40"/> <h3 align="center"> Software Engineer | Backend .NET Developer | .NET Developer </h3> <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" alt="xd" width="40" height="40"/>
-
+</div>
 
 <hr>
 
