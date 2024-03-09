@@ -21,7 +21,7 @@
 </p>
 
 
-<img src="[https://cdn.worldvectorlogo.com/logos/adobe-xd.svg](https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif)" alt="xd" width="40" height="40"/> </a> &nbsp &nbsp &nbsp <a target="_blank" rel="noreferrer">
+<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" alt="xd" width="40" height="40"/> </a> &nbsp &nbsp &nbsp <a target="_blank" rel="noreferrer">
 
 
 <h3 align="left">Languages and Tools:</h3>
