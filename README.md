@@ -2,11 +2,12 @@
 <h3 align="center"> Software Engineer | Backend .NET Developer | .NET Developer </h3>
 
 
-
 <hr>
+
 <div align="center">
-  <img src="" width="600" height="300"/>
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
+
 <hr>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=islam-ismail-aly&label=Profile%20views&color=0e75b6&style=flat" alt="islam-ismail-aly" /> </p>
