@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Islam Ismail Ali</h1>
 
 <div align="center">
-<h3 align="center"> Software Engineer | Backend .NET 
+<h3 align="center"> Software Engineer | Backend .NET Developer | .NET Developer </h3>
 </div>
 
 <hr>
