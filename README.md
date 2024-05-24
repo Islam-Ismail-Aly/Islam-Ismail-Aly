@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Islam Ismail Ali</h1>
 <div align="center">
-<h3 align="center">Software Engineer | Backend .NET Developer</h3>
+  <h3 align="center">Software Engineer | Backend .NET Developer</h3>
 </div>
 <hr>
 <div align="center">
@@ -8,7 +8,7 @@
 </div>
 <hr>
 <p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=islam-ismail-aly&label=Profile%20views&color=0e75b6&style=flat" alt="islam-ismail-aly" /> 
+  <img src="https://komarev.com/ghpvc/?username=islam-ismail-aly&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /> 
 </p>
 📫 How to reach me: islam.ismail.ali@icloud.com
 <h3 align="left">Connect with me:</h3>
@@ -21,8 +21,8 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook Profile" height="30" width="40" />
   </a>
 </p>
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
+<h3 align="left">Technical Expertise:</h3>
+<p align="left">
   <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/> 
   </a> 
@@ -58,6 +58,22 @@
   <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> 
     <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="Adobe XD" width="40" height="40"/> 
   </a> 
+  &nbsp &nbsp &nbsp 
+  <a href="https://docs.microsoft.com/en-us/aspnet/mvc" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="ASP.NET MVC" width="40" height="40"/> 
+  </a>
+  &nbsp &nbsp &nbsp 
+  <a href="https://docs.microsoft.com/en-us/ef/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/entityframework/entityframework-plain.svg" alt="Entity Framework" width="40" height="40"/> 
+  </a>
+  &nbsp &nbsp &nbsp 
+  <a href="https://dotnet.microsoft.com/apps/aspnet/apis" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webapi/webapi-original.svg" alt="Web API Core" width="40" height="40"/> 
+  </a>
+  &nbsp &nbsp &nbsp 
+  <a href="https://developer.mozilla.org/en-US/docs/Web/Guide/AJAX" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ajax/ajax-original.svg" alt="AJAX" width="40" height="40"/> 
+  </a>
 </p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=islam-ismail-aly&show_icons=true&locale=en&layout=compact" alt="Top Languages" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=islam-ismail-aly&show_icons=true&locale=en" alt="GitHub Stats" /></p>
